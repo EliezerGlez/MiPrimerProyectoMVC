@@ -1,0 +1,8 @@
+C:\proyectos\PruebaDespliegue\MiPrimerProyectoMVC\obj\Debug\net6.0\MiPrimerProyectoMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\PruebaDespliegue\MiPrimerProyectoMVC\obj\Debug\net6.0\MiPrimerProyectoMVC.AssemblyInfoInputs.cache
+C:\proyectos\PruebaDespliegue\MiPrimerProyectoMVC\obj\Debug\net6.0\MiPrimerProyectoMVC.AssemblyInfo.cs
+C:\proyectos\PruebaDespliegue\MiPrimerProyectoMVC\obj\Debug\net6.0\MiPrimerProyectoMVC.csproj.CoreCompileInputs.cache
+C:\proyectos\PruebaDespliegue\MiPrimerProyectoMVC\obj\Debug\net6.0\MiPrimerProyectoMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\proyectos\PruebaDespliegue\MiPrimerProyectoMVC\obj\Debug\net6.0\MiPrimerProyectoMVC.RazorAssemblyInfo.cache
+C:\proyectos\PruebaDespliegue\MiPrimerProyectoMVC\obj\Debug\net6.0\MiPrimerProyectoMVC.RazorAssemblyInfo.cs
+C:\proyectos\PruebaDespliegue\MiPrimerProyectoMVC\obj\Debug\net6.0\MiPrimerProyectoMVC.sourcelink.json
